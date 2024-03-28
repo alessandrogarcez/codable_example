@@ -1,0 +1,20 @@
+{
+    "posts":
+        [
+            {
+                "author": {
+                    "name": "A",
+                    "profile_picture": "https://some_picture"
+                },
+                "reactions": {
+                    "likes": 100,
+                    "thumb_up": 50
+                },
+                "type": "image",
+                "data": {
+                    "text": "some text",
+                    "image_url": "https://post_some_picture"
+                }
+            }
+        ]
+}
